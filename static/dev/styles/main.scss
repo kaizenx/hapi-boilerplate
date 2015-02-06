@@ -1,0 +1,39 @@
+pre {
+  margin: 10px auto;
+  width: 50%;
+  border-bottom: 1px solid #cecece;
+  text-align: left;
+  padding-bottom: 5px;
+}
+
+.content {
+  padding-left: 30%;
+  padding-right: 30%;
+
+  .pure-g {
+    text-align: center;
+    padding: 10px;
+
+    p {
+      margin: 2px;
+      line-height: 30px;
+      height: 30xp;
+      color: #fff;
+      background: #1f8dd6;
+      border-right: 1px solid #cecece;
+
+      &.green {
+        background: #5eb95e;
+      }
+    }
+  }
+}
+
+aside {
+  padding: 5px 15px;
+  color: #FFF;
+  background: #333;
+  width: 90%;
+  margin: 10px auto;
+  text-align: center;
+}
