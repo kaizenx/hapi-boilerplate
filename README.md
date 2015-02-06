@@ -1,6 +1,12 @@
 Hapi.js boilerplate
 ===================
 
+**WIKI**
+- [Directories structure](https://github.com/javascriptlabs/hapi-boilerplate/wiki/Directories-structure)
+- [Gulp features & flow](https://github.com/javascriptlabs/hapi-boilerplate/wiki/Gulp-features-&-flow)
+- [Hapi.js plugins included](https://github.com/javascriptlabs/hapi-boilerplate/wiki/Hapi.js-plugins-included)
+- [Node.js modules included](https://github.com/javascriptlabs/hapi-boilerplate/wiki/Node.js-modules-included)
+
 **Features:**
 - simple directories structure
 - Node.js livereload
